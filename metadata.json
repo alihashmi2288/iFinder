@@ -1,0 +1,6 @@
+{
+  "name": "iFinder",
+  "description": "Swipe-based verified property matching platform for Dubai buyers and RERA-licensed agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
